@@ -1,0 +1,4 @@
+{
+  "name": "VTT GAME releases",
+  "install": "bash .cursor/install.sh"
+}
